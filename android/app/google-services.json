@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "326709180780",
+    "project_id": "salva-a-gerardo-64011634",
+    "storage_bucket": "salva-a-gerardo-64011634.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326709180780:android:cb329cff242652190b9b49",
+        "android_client_info": {
+          "package_name": "victor.app.agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326709180780-a4mvfe8unlhqdp4i5ktomgri54rb3mqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgwMNFIpb8Pkvftru8XC8pzv1ylq6CRYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326709180780-a4mvfe8unlhqdp4i5ktomgri54rb3mqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
